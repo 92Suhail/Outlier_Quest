@@ -69,7 +69,4 @@ python recommendation_system.py
 - Optimize recommendation system for scalability.
 - Extend dataset coverage for better insights.
 
-## License
-
-This project is open-source and available under the MIT License.
 
